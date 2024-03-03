@@ -1,1 +1,4 @@
 node_modules
+cypress/fixtures/profile.json
+cypress/fixtures/users.json
+cypress/screenshots/2-advanced-examples/misc.cy.js/my-image.png
